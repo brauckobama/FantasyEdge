@@ -1,0 +1,16 @@
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.exe
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.deps.json
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.runtimeconfig.json
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.runtimeconfig.dev.json
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.dll
+A:\Other\FantasyEdge\bin\Debug\net5.0\ref\FantasyEdge.dll
+A:\Other\FantasyEdge\bin\Debug\net5.0\FantasyEdge.pdb
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.csproj.AssemblyReference.cache
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.GeneratedMSBuildEditorConfig.editorconfig
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.AssemblyInfoInputs.cache
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.AssemblyInfo.cs
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.csproj.CoreCompileInputs.cache
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.dll
+A:\Other\FantasyEdge\obj\Debug\net5.0\ref\FantasyEdge.dll
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.pdb
+A:\Other\FantasyEdge\obj\Debug\net5.0\FantasyEdge.genruntimeconfig.cache
