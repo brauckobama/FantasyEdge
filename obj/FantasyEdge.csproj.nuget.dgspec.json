@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Other\\FantasyEdge\\FantasyEdge.csproj": {}
+    "C:\\Users\\mattb\\Downloads\\coding\\FantasyEdge\\FantasyEdge.csproj": {}
   },
   "projects": {
-    "A:\\Other\\FantasyEdge\\FantasyEdge.csproj": {
+    "C:\\Users\\mattb\\Downloads\\coding\\FantasyEdge\\FantasyEdge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Other\\FantasyEdge\\FantasyEdge.csproj",
+        "projectUniqueName": "C:\\Users\\mattb\\Downloads\\coding\\FantasyEdge\\FantasyEdge.csproj",
         "projectName": "FantasyEdge",
-        "projectPath": "A:\\Other\\FantasyEdge\\FantasyEdge.csproj",
+        "projectPath": "C:\\Users\\mattb\\Downloads\\coding\\FantasyEdge\\FantasyEdge.csproj",
         "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "A:\\Other\\FantasyEdge\\obj\\",
+        "outputPath": "C:\\Users\\mattb\\Downloads\\coding\\FantasyEdge\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\mattb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

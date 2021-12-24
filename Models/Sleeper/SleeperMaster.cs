@@ -34,19 +34,23 @@ public class SleeperMaster {
 
     public decimal GetMeanScore() {
         return Matchups
+                .Where(x => x.matchup_id != null)
                 .Select(x => x.points)
                 .Average();
     }
 
     public double GetStdDev() {
         double retVal = 0;
-        var count = Matchups.Count();
+        var count = Matchups
+            .Where(x => x.matchup_id != null)
+            .Count();
         if (count < 1) {
             return 0;
         }
         var values = Matchups
-                    .Select(x => (double)x.points)
-                    .ToList();
+            .Where(x => x.matchup_id != null)
+            .Select(x => (double)x.points)
+            .ToList();
 
         double avg = values.Average();
         double sum = values.Sum(d => (d - avg) * (d - avg));
